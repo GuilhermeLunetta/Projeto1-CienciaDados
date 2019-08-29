@@ -1,1 +1,2 @@
-# Projeto1-CienciaDados
+# Projeto1 - Ciência dos Dados
+# Aluno: Guilherme Lunetta
